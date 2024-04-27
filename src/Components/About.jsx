@@ -24,19 +24,17 @@ const imageAltText = "purple and blue abstract background";
  * Sort description that expands on your title on the Home component.
  */
 const description =
-  "I'm a UI/UX student studying at Barnett Technical University. I enjoy creating unique and simplistic user interfaces in creative ways.";
+  " α Microsoft Ambassador || Future MERN Stack Web Developer || DSA || Coding Enthusiast || Member at GDSC-JSR ll ";
 
 /**
  * List of some of skills or technologies you work on, are learning,
  * passionate about, or enjoy,
  */
 const skillsList = [
-  "Web design",
-  "User experience",
-  "Inclusive design",
-  "Focus group testing",
-  "Mobile user interfaces",
-  "Graphic design",
+  "Web designer",
+  "Data Scientist",
+  "DSA Problem Solver",
+  "Software Engineer",
 ];
 
 /**
@@ -45,7 +43,7 @@ const skillsList = [
  * about you on a professional level.
  */
 const detailOrQuote =
-  "I am passionate about solving problems in new creative ways to drive innovation. By leveraging my UI/UX experience I continually look for new and better ways to make tech accessible by all.";
+  " I'm an enthusiastic self-motivated guy who loves learning new things and has a solid foundation in coding, web development.I am eager to absorb knowledge and harness the power of technology to drive innovative solutions.I believe that learning is a lifelong adventure, and I am always seeking opportunities to expand my skill set and stay up-to-date with the latest trends and technologies in the IT world ";
 
 const About = () => {
   return (
